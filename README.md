@@ -1,6 +1,6 @@
 <div align="center"> 
 
-__Welcome! I'm Game programmer rlaRhEn👋__
+__Welcome! I'm Game programmer rlaRhEn!👋__
 </div>
 
 <div align="center"> 
