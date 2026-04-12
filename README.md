@@ -1,6 +1,6 @@
 <div align="center"> 
 
-__HI! I'm Game programmer rlaRhEn!.👋__
+__HI! I'm Unity programmer 경동 !.👋__
 </div>
 
 <div align="center"> 
